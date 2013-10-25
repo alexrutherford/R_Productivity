@@ -1,0 +1,4 @@
+This is a light-hearted 3 line R script to be run interactively. 
+It produces some futuristic but meaningless graphics and text
+until terminated.
+It requires no external dependencies.
